@@ -1,0 +1,14 @@
+C:\Users\Home\Desktop\AOL - Student - Abdul Hanif\C# part 2 Assignments\MethodClassApp\bin\Debug\net9.0\MethodClassApp.exe
+C:\Users\Home\Desktop\AOL - Student - Abdul Hanif\C# part 2 Assignments\MethodClassApp\bin\Debug\net9.0\MethodClassApp.deps.json
+C:\Users\Home\Desktop\AOL - Student - Abdul Hanif\C# part 2 Assignments\MethodClassApp\bin\Debug\net9.0\MethodClassApp.runtimeconfig.json
+C:\Users\Home\Desktop\AOL - Student - Abdul Hanif\C# part 2 Assignments\MethodClassApp\bin\Debug\net9.0\MethodClassApp.dll
+C:\Users\Home\Desktop\AOL - Student - Abdul Hanif\C# part 2 Assignments\MethodClassApp\bin\Debug\net9.0\MethodClassApp.pdb
+C:\Users\Home\Desktop\AOL - Student - Abdul Hanif\C# part 2 Assignments\MethodClassApp\obj\Debug\net9.0\MethodClassApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\AOL - Student - Abdul Hanif\C# part 2 Assignments\MethodClassApp\obj\Debug\net9.0\MethodClassApp.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\AOL - Student - Abdul Hanif\C# part 2 Assignments\MethodClassApp\obj\Debug\net9.0\MethodClassApp.AssemblyInfo.cs
+C:\Users\Home\Desktop\AOL - Student - Abdul Hanif\C# part 2 Assignments\MethodClassApp\obj\Debug\net9.0\MethodClassApp.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\AOL - Student - Abdul Hanif\C# part 2 Assignments\MethodClassApp\obj\Debug\net9.0\MethodClassApp.dll
+C:\Users\Home\Desktop\AOL - Student - Abdul Hanif\C# part 2 Assignments\MethodClassApp\obj\Debug\net9.0\refint\MethodClassApp.dll
+C:\Users\Home\Desktop\AOL - Student - Abdul Hanif\C# part 2 Assignments\MethodClassApp\obj\Debug\net9.0\MethodClassApp.pdb
+C:\Users\Home\Desktop\AOL - Student - Abdul Hanif\C# part 2 Assignments\MethodClassApp\obj\Debug\net9.0\MethodClassApp.genruntimeconfig.cache
+C:\Users\Home\Desktop\AOL - Student - Abdul Hanif\C# part 2 Assignments\MethodClassApp\obj\Debug\net9.0\ref\MethodClassApp.dll
